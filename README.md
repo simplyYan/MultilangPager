@@ -80,7 +80,7 @@ In the example above, the library changes the text of the element with `id="myPh
 <head>
   <meta charset="UTF-8">
   <title>MultilangPager Example</title>
-  <script src="https://cdn.example.com/multilangpager.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/simplyYan/MultilangPager@refs/heads/main/multilang.js"></script>
 </head>
 <body>
   <h1 id="title">Title</h1>
